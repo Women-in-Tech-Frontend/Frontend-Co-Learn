@@ -6,7 +6,7 @@
 Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 
 
-## [Github Discussion](ttps://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions) 方法
+## [Github Discussion](ttps://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions)使用方法
 
 | Categories         | description                                                  |
 | ------------------ | ------------------------------------------------------------ |
