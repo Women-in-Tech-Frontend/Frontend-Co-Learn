@@ -12,7 +12,7 @@ Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 | ------------------ | ------------------------------------------------------------ |
 | [🍕Materials](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/materials)         | 学习材料分享:  前端/后端/大数据/产品 优质资料(文章/书籍/课程...)    |
 | [🙏 Q&A](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/q-a)              | 提问 / 答疑                                                  |
-| 🔧[ricks & Tools](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/tricks-tools)      | 你觉得值得分享的小技巧/小工具<br />比如学习英语的技巧/前端/开发相关很 fancy 的工具 |
+| 🔧[Tricks & Tools](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/tricks-tools)      | 你觉得值得分享的小技巧/小工具<br />比如学习英语的技巧/前端/开发相关很 fancy 的工具 |
 | 👯[Co-learn FE！](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/co-learn-fe)      | 线下共学自组织 ~  目前已有大理 & 深圳在进行<br />有场不知道如何发起 —— 工具包可自取 |
 | 💡[I've got an idea!](https://github.com/Women-in-Tech-Frontend/Frontend-Co-Learn/discussions/categories/I-ve-got-an-idea)   | 关于 WIT 的一些 Amazing fancy ideas, 用来<br />1. 前端共学 <br />2. 模拟面试<br />3. 组队开发<br />4. 聊天玩耍 |
 
