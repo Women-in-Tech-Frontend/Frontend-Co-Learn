@@ -35,9 +35,6 @@ Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 | [typescript-tutorial](https://github.com/joye61/typescript-tutorial) | TypeScript 速成教程（2小时速成） |
 
 
-[⬆️ 返回顶部](#目录)
-
-
 
 ### 面试专题
 
