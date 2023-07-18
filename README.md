@@ -20,7 +20,7 @@ Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 
 ### TypeScript
 
-- [**推荐 7 个学习 TypeScript 的宝库，2021 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
+- [**推荐 7 个学习 TypeScript 的宝库，2023 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
 - [**JS 加强篇！推荐 10 个好用的 TypeScript 的开源项目 YYDS 👍 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/59)
 - 精彩待续。。。
 
