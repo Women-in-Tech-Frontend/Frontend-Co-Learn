@@ -18,26 +18,9 @@ Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 
 
 
-### TypeScript
-
-- [**推荐 7 个学习 TypeScript 的宝库，2023 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
-- [**JS 加强篇！推荐 10 个好用的 TypeScript 的开源项目 YYDS 👍 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/59)
-- 精彩待续。。。
-
-| 网站 | 说明 |
-| --- | --- |
-| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript 官网，TS 扩展了 JavaScript ，为它添加了类型支持 |
-| [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | TypeScript 入门教程，循序渐进的理解 TypeScript |
-| [TypeScript](https://github.com/zhongsp/TypeScript) | TypeScript 使用手册 |
-| [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | 深入理解 TypeScript |
-| [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) |适用于TypeScript的简洁代码概念 |
-| [TypeScript入门](http://www.imooc.com/learn/763) | TypeScript 入门的视频教程 |
-| [typescript-tutorial](https://github.com/joye61/typescript-tutorial) | TypeScript 速成教程（2小时速成） |
-
-
-
 ### 面试专题
 
+- [**红药：web前端面试 - 面试官系列**](https://vue3js.cn/interview/http/WebSocket.html#%E4%B8%80%E3%80%81%E6%98%AF%E4%BB%80%E4%B9%88)
 - [**推荐这 10 个 GitHub 上超火的前端面试项目，打造自己的加薪宝库！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/6)
 
 | 项目 | 地址 |
@@ -57,7 +40,6 @@ Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 
 ### 简历专题
 
-
 | 项目 | 地址 |
 | --- | --- |
 | ResumeSample：程序员简历模板系列 | [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) |
@@ -70,6 +52,23 @@ Co-learn FrontEnd，一起在科技领域变强！🔥🔥🔥
 | resume：一份优雅简约的简历 | [https://github.com/gwuhaolin/resume](https://github.com/gwuhaolin/resume) |
 | biaochenxuying：非常自由的自定义的前端程序员模版 | [https://github.com/biaochenxuying/blog/blob/master/resume/resume.md](https://github.com/biaochenxuying/blog/blob/master/resume/resume.md) |
 | github-readme-stats：在你的 README 中获取动态生成的 GitHub 统计信息 | [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) |
+
+
+### TypeScript
+
+- [**推荐 7 个学习 TypeScript 的宝库，2023 是时候给自己加薪了！**](https://github.com/biaochenxuying/FrontEndGitHub/issues/17)
+- [**JS 加强篇！推荐 10 个好用的 TypeScript 的开源项目 YYDS 👍 **](https://github.com/FrontEndGitHub/FrontEndGitHub/issues/59)
+- 精彩待续。。。
+
+| 网站 | 说明 |
+| --- | --- |
+| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript 官网，TS 扩展了 JavaScript ，为它添加了类型支持 |
+| [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | TypeScript 入门教程，循序渐进的理解 TypeScript |
+| [TypeScript](https://github.com/zhongsp/TypeScript) | TypeScript 使用手册 |
+| [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | 深入理解 TypeScript |
+| [clean-code-typescript](https://github.com/labs42io/clean-code-typescript) |适用于TypeScript的简洁代码概念 |
+| [TypeScript入门](http://www.imooc.com/learn/763) | TypeScript 入门的视频教程 |
+| [typescript-tutorial](https://github.com/joye61/typescript-tutorial) | TypeScript 速成教程（2小时速成） |
 
 
 
